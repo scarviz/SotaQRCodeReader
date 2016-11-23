@@ -1,0 +1,4 @@
+bin/*
+!resource
+
+local_*
